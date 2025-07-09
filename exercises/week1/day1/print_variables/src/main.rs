@@ -13,5 +13,4 @@ fn main() {
 
     height = 1.80;
     println!("Update height: {} meters", height);
-    
 }
