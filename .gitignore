@@ -1,0 +1,11 @@
+# Rust
+/target/
+/exercises/**/*/target/
+# IDE files
+.vscode/
+.idea/
+
+*.log
+*.bak
+exercises/week1/.DS_Store
+exercises/week1/day1/day1_print_variables
